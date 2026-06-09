@@ -268,5 +268,10 @@
     "model_type": "Y3000G-PRO",
     "platform": "arm",
     "system": "community"
+  },
+  "y6000g-pro": {
+    "model_type": "Y6000G-PRO",
+    "platform": "arm",
+    "system": "community"
   }
 }
